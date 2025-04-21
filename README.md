@@ -1,4 +1,4 @@
-# Top-10-Companies-WebScraping
+# Top-100-Companies-WebScraping
 This project is a web scraping practice to collect data on the top 100 companies in the United States by revenue from Wikipedia. 
 
 
